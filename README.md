@@ -1,4 +1,4 @@
-# 200-Curriculum: Intermediate Phase
+# WDI Curriculum: Intermediate Phase
 
 ## WDI-201 Backend Development: Web Servers and Databases
 
