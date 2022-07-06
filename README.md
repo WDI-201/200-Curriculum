@@ -1,11 +1,12 @@
 # WDI Curriculum: Intermediate Phase
 
 ## Class Policy
-1. Any resource found on the internet may be used to complete an assignment. Any code copied or modified from an internet resource must include inline comments. The student must demonstrate in the comments they they sufficiently understand the code they retrieved from the internet resource. Otherwise, the student will receieve no credit for that block of code. 
+1. Any resource found on the internet may be used to complete an assignment. Any code copied or modified from an internet resource must include inline comments. The student must demonstrate in the comments they they sufficiently understand the code they retrieved from the internet resource. Otherwise, the student will receieve no credit for that block of code. ToDo: Comments must be in JSDOC syntax.
 2. All assignments are due at the start of the next class. Extensions may be granted on a individual basis. 1 letter grade will be deducted per day after an assignment is due if submitted late.
 3. The Instructor will submit assignments 1 week in advance of the scheduled lesson to the TA for testing.
 4. The first half of the first day of class per week will be used for Whiteboarding practice. The Instructor and TA will select up to 3 sample problems for the class to work on until lunch time. After lunch time, the class will reconvene and review all the sample problems.
 5. All google feedback forms will be reviewed by the Instructor and/or TA at the end of every week.
+6. The morning after an assignment has been submitted, Instructor will ask for volunteers to walk the class through the assignment. The class will then group code review the volunteer's code.
 
 ## Topic Legend
 
