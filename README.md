@@ -31,7 +31,7 @@ WDI-201 will introduce students to web servers and server-side functionality. St
 	* Install, Run and Connect to Local Instance
 	* Mongo CLI
 	* Read/Write/Update/Delete Data
-* [Primary] Mongoose
+* [Secondary] Mongoose
 	* CRUD Functionality
 * [Tertiary] SQL vs NoSQL
 	* Overview
