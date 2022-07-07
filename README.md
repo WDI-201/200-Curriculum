@@ -8,6 +8,8 @@
 5. All google feedback forms will be reviewed by the Instructor and/or TA at the end of every week.
 6. The morning after an assignment has been submitted, Instructor will ask for volunteers to walk the class through the assignment. The class will then group code review the volunteer's code. 
 	* During the review, every suggestion from a reviewer MUST include 1 thing the reviewee did right; along with 1 thing the reviewee did wrong and how they can improve.
+7. If there is an error in the class assignment, points will not be deducted for any non-functional part of the assignment that relies on that code. Students are encouraged to a) inform the Instructor and/or TA of the error and b) attempt to implement their own solution to work around and/or fix the error.
+	* If a student reports a bug to the Instructor or TA first, they will receive 1 bug bounty point. If they suggest a fix for the bug that works, they will receive an additional bug bounty point. Points will be tracked by the Instructor and TA for each quarter to potentially be applied as extra credit.
 
 ## Topic Legend
 
